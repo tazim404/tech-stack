@@ -1,0 +1,26 @@
+{
+    "fastapi":{
+        "name":"fastapi",
+        "logo":"https://raw.githubusercontent.com/tazim404/tech-stack/f4705d3ccdf8a2ec6c7b5fc90e77c9d07ff93691/logos/fastapi.svg"
+    },
+    "flask":{
+        "name":"flask",
+        "logo":"https://raw.githubusercontent.com/tazim404/tech-stack/f4705d3ccdf8a2ec6c7b5fc90e77c9d07ff93691/logos/flask.svg"
+    },
+    "github":{
+        "name":"github",
+        "logo":"https://raw.githubusercontent.com/tazim404/tech-stack/f4705d3ccdf8a2ec6c7b5fc90e77c9d07ff93691/logos/github.svg"
+    },
+    "html":{
+        "name":"html",
+        "logo":"https://raw.githubusercontent.com/tazim404/tech-stack/f4705d3ccdf8a2ec6c7b5fc90e77c9d07ff93691/logos/html.svg"
+    },
+    "python":{
+        "name":"python",
+        "logo":"https://raw.githubusercontent.com/tazim404/tech-stack/f4705d3ccdf8a2ec6c7b5fc90e77c9d07ff93691/logos/python.svg"
+    },
+    "javascript":{
+        "name":"javascript",
+        "logo":"https://raw.githubusercontent.com/tazim404/tech-stack/f4705d3ccdf8a2ec6c7b5fc90e77c9d07ff93691/logos/javascript.svg"
+    }
+}
