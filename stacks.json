@@ -282,5 +282,205 @@
   "supabase": {
     "name": "supabase",
     "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/supabase.svg"
+  },
+  "algolia": {
+    "name": "algolia",
+    "logo": ""
+  },
+  "c#": {
+    "name": "c#",
+    "logo": ""
+  },
+  "capacitor": {
+    "name": "capacitor",
+    "logo": ""
+  },
+  "cloudinary": {
+    "name": "cloudinary",
+    "logo": ""
+  },
+  "couchdb": {
+    "name": "couchdb",
+    "logo": ""
+  },
+  "deno": {
+    "name": "deno",
+    "logo": ""
+  },
+  "derby": {
+    "name": "derby",
+    "logo": ""
+  },
+  "dotnet": {
+    "name": "dotnet",
+    "logo": ""
+  },
+  "drupal": {
+    "name": "drupal",
+    "logo": ""
+  },
+  "electron": {
+    "name": "electron",
+    "logo": ""
+  },
+  "ember": {
+    "name": "ember",
+    "logo": ""
+  },
+  "fastify": {
+    "name": "fastify",
+    "logo": ""
+  },
+  "figma": {
+    "name": "figma",
+    "logo": ""
+  },
+  "framework7": {
+    "name": "framework7",
+    "logo": ""
+  },
+  "git": {
+    "name": "git",
+    "logo": ""
+  },
+  "gridsome": {
+    "name": "gridsome",
+    "logo": ""
+  },
+  "jamstack": {
+    "name": "jamstack",
+    "logo": ""
+  },
+  "jest": {
+    "name": "jest",
+    "logo": ""
+  },
+  "json": {
+    "name": "json",
+    "logo": ""
+  },
+  "kemal": {
+    "name": "kemal",
+    "logo": ""
+  },
+  "koa": {
+    "name": "koa",
+    "logo": ""
+  },
+  "lesscss": {
+    "name": "less",
+    "logo": ""
+  },
+  "lighthouse": {
+    "name": "lighthouse",
+    "logo": ""
+  },
+  "loopback": {
+    "name": "loopback",
+    "logo": ""
+  },
+  "material-ui": {
+    "name": "material-ui",
+    "logo": ""
+  },
+  "materialize": {
+    "name": "materialize",
+    "logo": ""
+  },
+  "milligram": {
+    "name": "milligram",
+    "logo": ""
+  },
+  "nativescript": {
+    "name": "nativescript",
+    "logo": ""
+  },
+  "next": {
+    "name": "next",
+    "logo": ""
+  },
+  "npm": {
+    "name": "npm",
+    "logo": ""
+  },
+  "numpy": {
+    "name": "numpy",
+    "logo": ""
+  },
+  "phoenix": {
+    "name": "phoenix",
+    "logo": ""
+  },
+  "preact": {
+    "name": "preact",
+    "logo": ""
+  },
+  "pumpkindb": {
+    "name": "pumpkindb",
+    "logo": ""
+  },
+  "pusher": {
+    "name": "pusher",
+    "logo": ""
+  },
+  "semantic": {
+    "name": "semantic-ui",
+    "logo": ""
+  },
+  "sendgrid": {
+    "name": "sendgrid",
+    "logo": ""
+  },
+  "sentry": {
+    "name": "sentry",
+    "logo": ""
+  },
+  "shopify": {
+    "name": "shopify",
+    "logo": ""
+  },
+  "strapi": {
+    "name": "strapi",
+    "logo": ""
+  },
+  "susy": {
+    "name": "susy",
+    "logo": ""
+  },
+  "vercel": {
+    "name": "capacitor",
+    "logo": ""
+  },
+  "vite": {
+    "name": "vite",
+    "logo": ""
+  },
+  "vuetify": {
+    "name": "vuetify",
+    "logo": ""
+  },
+  "webassembly": {
+    "name": "webassembly",
+    "logo": ""
+  },
+  "websocket": {
+    "name": "websocket",
+    "logo": ""
+  },
+  "woocommerce": {
+    "name": "woocommerce",
+    "logo": ""
+  },
+  "wordpress": {
+    "name": "wordpress",
+    "logo": ""
+  },
+  "xamarin": {
+    "name": "xamarin",
+    "logo": ""
+  },
+  "yarn": {
+    "name": "yarn",
+    "logo": ""
   }
 }
