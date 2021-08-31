@@ -139,38 +139,96 @@
     "name": "CakePhp",
     "logo": ""
   },
-  "digitalocean":{
-    "name":"Digital Ocean",
-    "logo":""
+  "digitalocean": {
+    "name": "Digital Ocean",
+    "logo": ""
   },
-  "elixir":{
-    "name":"Elixir",
-    "logo":""
+  "elixir": {
+    "name": "Elixir",
+    "logo": ""
   },
-  "falcon":{
-    "name":"falcon",
-    "logo":""
+  "falcon": {
+    "name": "falcon",
+    "logo": ""
   },
-  "firebase":{
-    "name":"firebase",
-    "logo":""
+  "firebase": {
+    "name": "firebase",
+    "logo": ""
   },
-  "foundation":{
-    "name":"foundation",
-    "logo":""
+  "foundation": {
+    "name": "foundation",
+    "logo": ""
   },
-  "go":{
-    "name":"Go",
-    "logo":""
+  "go": {
+    "name": "Go",
+    "logo": ""
   },
-  "ionic":{
-    "name":"ionic",
-    "logo":""
+  "ionic": {
+    "name": "ionic",
+    "logo": ""
   },
-  "jq":{
-    "name":"jquery",
-    "logo":""
+  "jq": {
+    "name": "jquery",
+    "logo": ""
+  },
+  "julia": {
+    "name": "julia",
+    "logo": ""
+  },
+  "kotlin": {
+    "name": "kotlin",
+    "logo": ""
+  },
+  "lua": {
+    "name": "lua",
+    "logo": ""
+  },
+  "mariadb": {
+    "name": "mariadb",
+    "logo": ""
+  },
+  "meteor": {
+    "name": "meteor",
+    "logo": ""
+  },
+  "netlify": {
+    "name": "netlify",
+    "logo": ""
+  },
+  "nuxt": {
+    "name": "nuxt",
+    "logo": ""
+  },
+  "oracle": {
+    "name": "oracle",
+    "logo": ""
+  },
+  "perl": {
+    "name": "perl",
+    "logo": ""
+  },
+  "posman": {
+    "name": "postman",
+    "logo": ""
+  },
+  "qt": {
+    "name": "qt",
+    "logo": ""
+  },
+  "rails": {
+    "name": "rails",
+    "logo": ""
+  },
+  "saas": {
+    "name": "sass",
+    "logo": ""
+  },
+  "scala": {
+    "name": "scala",
+    "logo": ""
+  },
+  "socket-io": {
+    "name": "socket-io",
+    "logo": ""
   }
-
-
 }
