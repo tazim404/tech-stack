@@ -125,110 +125,110 @@
   },
   "authO": {
     "name": "authO",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/auth0.svg"
   },
   "aws": {
     "name": "AWS",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/aws.svg"
   },
   "azure": {
     "name": "Azure",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/azure.svg"
   },
   "ckaephp": {
     "name": "CakePhp",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/cakephp.svg"
   },
   "digitalocean": {
     "name": "Digital Ocean",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/digitalocean.svg"
   },
   "elixir": {
     "name": "Elixir",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/elixir.svg"
   },
   "falcon": {
     "name": "falcon",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/falcon.svg"
   },
   "firebase": {
     "name": "firebase",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/firebase.svg"
   },
   "foundation": {
     "name": "foundation",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/foundation.svg"
   },
   "go": {
     "name": "Go",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/go.svg"
   },
   "ionic": {
     "name": "ionic",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/ionic.svg"
   },
   "jq": {
     "name": "jquery",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/jquery1.svg"
   },
   "julia": {
     "name": "julia",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/julia.svg"
   },
   "kotlin": {
     "name": "kotlin",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/kotlin.svg"
   },
   "lua": {
     "name": "lua",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/lua.svg"
   },
   "mariadb": {
     "name": "mariadb",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/mariadb.svg"
   },
   "meteor": {
     "name": "meteor",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/meteor.svg"
   },
   "netlify": {
     "name": "netlify",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/netlify.svg"
   },
   "nuxt": {
     "name": "nuxt",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/nuxt.svg"
   },
   "oracle": {
     "name": "oracle",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/oracle.svg"
   },
   "perl": {
     "name": "perl",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/perl.svg"
   },
-  "posman": {
+  "postman": {
     "name": "postman",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/postman.svg"
   },
   "qt": {
     "name": "qt",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/qt.svg"
   },
   "rails": {
     "name": "rails",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/rails.svg"
   },
   "saas": {
     "name": "sass",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/saas.svg"
   },
   "scala": {
     "name": "scala",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/scala.svg"
   },
   "socket-io": {
     "name": "socket-io",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/socket-io.svg"
   }
 }
