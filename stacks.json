@@ -25,34 +25,98 @@
   },
   "django": {
     "name": "django",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/django.svg"
   },
   "css": {
     "name": "css",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/css.svg"
   },
   "express": {
     "name": "Express",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/express.svg"
   },
-  "react":{"name":"React","logo":""},
-  "laravel":{"name":"Laravel","logo":""},
-  "php":{"name":"Php","logo":""},
-  "java":{"name":"Java","logo":""},
-  "angular":{"name":"Angular","logo":""},
-  "spring":{"name":"Spring","logo":""},
-  "bootstarp":{"name":"Bootstarp","logo":""},
-  "jquery":{"name":"jquery","logo":""},
-  "docker":{"name":"docker","logo":""},
-  "heroku":{"name":"heroku","logo":""},
-  "sevelte":{"name":"sevelte","logo":""},
-  "tailwind":{"name":"tailwind","logo":""},
-  "gatsby":{"name":"gatsby","logo":""},
-  "redux":{"name":"Redux","logo":""},
-  "redis":{"name":"Redis","logo":""},
-  "nodejs":{"name":"NodeJs","logo":""},
-  "mysql":{"name":"mysql","logo":""},
-  "mongodb":{"name":"MongoDB","logo":""},
-  "postgresql":{"name":"Postgresql","logo":""},
-  "sqlite":{"name":"sqlite","logo":""}  
+  "react": {
+    "name": "React",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/react.svg"
+  },
+  "laravel": {
+    "name": "Laravel",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/laravel.svg"
+  },
+  "php": {
+    "name": "Php",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/php.svg"
+  },
+  "java": {
+    "name": "Java",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/java.svg"
+  },
+  "angular": {
+    "name": "Angular",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/angular.svg"
+  },
+  "spring": {
+    "name": "Spring",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/spring.svg"
+  },
+  "bootstarp": {
+    "name": "Bootstarp",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/bootstrap.svg"
+  },
+  "jquery": {
+    "name": "jquery",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/jquery.svg"
+  },
+  "docker": {
+    "name": "docker",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/docker.svg"
+  },
+  "heroku": {
+    "name": "heroku",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/heroku.svg"
+  },
+  "svelte": {
+    "name": "sevlte",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/svelte.svg"
+  },
+  "tailwind": {
+    "name": "tailwind",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/tailwindcss.svg"
+  },
+  "gatsby": {
+    "name": "gatsby",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/gatsby.svg"
+  },
+  "redux": {
+    "name": "Redux",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/redux.svg"
+  },
+  "redis": {
+    "name": "Redis",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/redis.svg"
+  },
+  "nodejs": {
+    "name": "NodeJs",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/nodejs.svg"
+  },
+  "mysql": {
+    "name": "mysql",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/mysql.svg"
+  },
+  "mongodb": {
+    "name": "MongoDB",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/mongodb.svg"
+  },
+  "postgresql": {
+    "name": "Postgresql",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/postgresql.svg"
+  },
+  "sqlite": {
+    "name": "sqlite",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/sqlite.svg"
+  },
+  "bulma": {
+    "name": "Bulma",
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f4705d3ccdf8a2ec6c7b5fc90e77c9d07ff93691/logos/bulma.svg"
+  }
 }
