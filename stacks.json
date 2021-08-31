@@ -230,5 +230,60 @@
   "socket-io": {
     "name": "socket-io",
     "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/2e9b36b9f3dce635a0c5c4c777ce91d2bd03ffcf/logos/socket-io.svg"
+  },
+  "typescript": {
+    "name": "typescript",
+    "logo": ""
+  },
+  "gulp": {
+    "name": "gulp",
+    "logo": ""
+  },
+  "gitlab": {
+    "name": "gitlab",
+    "logo": ""
+  },
+  "graphql": {
+    "name": "graphql",
+    "logo": ""
+  },
+  "webpack": {
+    "name": "webpack",
+    "logo": ""
+  },
+  "google-cloud": {
+    "name": "GCloud",
+    "logo": ""
+  },
+  "bitbucket": {
+    "name": "bitbucket",
+    "logo": ""
+  },
+  "pug": {
+    "name": "pug",
+    "logo": ""
+  },
+  
+  "cassandra": {
+    "name": "cassandra",
+    "logo": ""
+  },
+
+  "jinja": {
+    "name": "jinja",
+    "logo": ""
+  },
+  "cockroachdb": {
+    "name": "cockroachdb",
+    "logo": ""
+  },
+  "bower": {
+    "name": "bower",
+    "logo": ""
+  },
+  "supabase": {
+    "name": "supabase",
+    "logo": ""
   }
+  
 }

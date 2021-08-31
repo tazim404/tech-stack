@@ -58,3 +58,10 @@ sqlite
 sevelte
 tailwind
 twilio
+typescript
+c++
+gitlab
+gulp
+webpack
+google-cloud
+bitbucket
