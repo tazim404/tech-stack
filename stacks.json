@@ -118,5 +118,59 @@
   "bulma": {
     "name": "Bulma",
     "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/74ed0f233804eaa0dfdfab54bdf465e9ebfb2f6f/logos/bulma.svg"
+  },
+  "vue": {
+    "name": "Vue",
+    "logo": "https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"
+  },
+  "authO": {
+    "name": "authO",
+    "logo": ""
+  },
+  "aws": {
+    "name": "AWS",
+    "logo": ""
+  },
+  "azure": {
+    "name": "Azure",
+    "logo": ""
+  },
+  "ckaephp": {
+    "name": "CakePhp",
+    "logo": ""
+  },
+  "digitalocean":{
+    "name":"Digital Ocean",
+    "logo":""
+  },
+  "elixir":{
+    "name":"Elixir",
+    "logo":""
+  },
+  "falcon":{
+    "name":"falcon",
+    "logo":""
+  },
+  "firebase":{
+    "name":"firebase",
+    "logo":""
+  },
+  "foundation":{
+    "name":"foundation",
+    "logo":""
+  },
+  "go":{
+    "name":"Go",
+    "logo":""
+  },
+  "ionic":{
+    "name":"ionic",
+    "logo":""
+  },
+  "jq":{
+    "name":"jquery",
+    "logo":""
   }
+
+
 }
