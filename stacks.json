@@ -113,7 +113,7 @@
   },
   "sqlite": {
     "name": "sqlite",
-    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/f5582eb710eed3f8ab76821a5c9ef67cbb901866/logos/sqlite.svg"
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/sqlite.svg"
   },
   "bulma": {
     "name": "Bulma",
@@ -233,57 +233,54 @@
   },
   "typescript": {
     "name": "typescript",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/typescript.svg"
   },
   "gulp": {
     "name": "gulp",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/gulp.svg"
   },
   "gitlab": {
     "name": "gitlab",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/gitalb.svg"
   },
   "graphql": {
     "name": "graphql",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/graphql.svg"
   },
   "webpack": {
     "name": "webpack",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/webpack.svg"
   },
   "google-cloud": {
     "name": "GCloud",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/google-cloud.svg"
   },
   "bitbucket": {
     "name": "bitbucket",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/bitbucket.svg"
   },
   "pug": {
     "name": "pug",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/pug.svg"
   },
-  
   "cassandra": {
     "name": "cassandra",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/cassandra.svg"
   },
-
   "jinja": {
     "name": "jinja",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/jinja.svg"
   },
   "cockroachdb": {
     "name": "cockroachdb",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/cockroachdb.svg"
   },
   "bower": {
     "name": "bower",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/bower.svg"
   },
   "supabase": {
     "name": "supabase",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/1ef662824d00fc70234df9dec1bfc3f94d74c90c/logos/supabase.svg"
   }
-  
 }
