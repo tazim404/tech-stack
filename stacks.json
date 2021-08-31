@@ -285,202 +285,202 @@
   },
   "algolia": {
     "name": "algolia",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/algolia.svg"
   },
   "c#": {
     "name": "c#",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/c%23.svg"
   },
   "capacitor": {
     "name": "capacitor",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/capacitor.svg"
   },
   "cloudinary": {
     "name": "cloudinary",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/cloudinary.svg"
   },
   "couchdb": {
     "name": "couchdb",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/couchdb.svg"
   },
   "deno": {
     "name": "deno",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/deno.svg"
   },
   "derby": {
     "name": "derby",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/derby.svg"
   },
   "dotnet": {
     "name": "dotnet",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/dotnet.svg"
   },
   "drupal": {
     "name": "drupal",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/drupal.svg"
   },
   "electron": {
     "name": "electron",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/electron.svg"
   },
   "ember": {
     "name": "ember",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/ember.svg"
   },
   "fastify": {
     "name": "fastify",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/fastify.svg"
   },
   "figma": {
     "name": "figma",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/figma.svg"
   },
   "framework7": {
     "name": "framework7",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/framework7.svg"
   },
   "git": {
     "name": "git",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/git.svg"
   },
   "gridsome": {
     "name": "gridsome",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/gridsome.svg"
   },
   "jamstack": {
     "name": "jamstack",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/jamstack.svg"
   },
   "jest": {
     "name": "jest",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/jest.svg"
   },
   "json": {
     "name": "json",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/json.svg"
   },
   "kemal": {
     "name": "kemal",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/kemal.svg"
   },
   "koa": {
     "name": "koa",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/koa.svg"
   },
   "lesscss": {
     "name": "less",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/lesscss.svg"
   },
   "lighthouse": {
     "name": "lighthouse",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/lighthouse.svg"
   },
   "loopback": {
     "name": "loopback",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/loopback.svg"
   },
   "material-ui": {
     "name": "material-ui",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/material-ui.svg"
   },
   "materialize": {
     "name": "materialize",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/materialize.svg"
   },
   "milligram": {
     "name": "milligram",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/milligram.svg"
   },
   "nativescript": {
     "name": "nativescript",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/nativescript.svg"
   },
   "next": {
     "name": "next",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/next.svg"
   },
   "npm": {
     "name": "npm",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/npm.svg"
   },
   "numpy": {
     "name": "numpy",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/numpy.svg"
   },
   "phoenix": {
     "name": "phoenix",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/phoenix.svg"
   },
   "preact": {
     "name": "preact",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/preact.svg"
   },
   "pumpkindb": {
     "name": "pumpkindb",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/pumpkindb.svg"
   },
   "pusher": {
     "name": "pusher",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/pusher.svg"
   },
   "semantic": {
     "name": "semantic-ui",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/semantic-ui.svg"
   },
   "sendgrid": {
     "name": "sendgrid",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/sendgrid.svg"
   },
   "sentry": {
     "name": "sentry",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/sentry.svg"
   },
   "shopify": {
     "name": "shopify",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/shopify.svg"
   },
   "strapi": {
     "name": "strapi",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/strapi.svg"
   },
   "susy": {
     "name": "susy",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/susy.svg"
   },
   "vercel": {
     "name": "capacitor",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/capacitor.svg"
   },
   "vite": {
     "name": "vite",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/vite.svg"
   },
   "vuetify": {
     "name": "vuetify",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/vuetify.svg"
   },
   "webassembly": {
     "name": "webassembly",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/webassembly.svg"
   },
   "websocket": {
     "name": "websocket",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/websocket.svg"
   },
   "woocommerce": {
     "name": "woocommerce",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/woocommerce.svg"
   },
   "wordpress": {
     "name": "wordpress",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/wordpress.svg"
   },
   "xamarin": {
     "name": "xamarin",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/xamarin.svg"
   },
   "yarn": {
     "name": "yarn",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/yarn.svg"
   }
 }
