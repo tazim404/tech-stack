@@ -115,3 +115,13 @@ woocommerce
 wordpress
 xamarin
 yarn
+airtable
+codeigniter
+coffeescript
+cordova
+dynamodb
+expo
+markdown
+R
+sencha
+symfony

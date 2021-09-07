@@ -482,5 +482,45 @@
   "yarn": {
     "name": "yarn",
     "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/497df1acfeb003bb48b99547ca3af425d4273407/logos/yarn.svg"
+  },
+  "airtable": {
+    "name": "airtable",
+    "logo": ""
+  },
+  "codeigniter": {
+    "name": "codeigniter",
+    "logo": ""
+  },
+  "coffeescript": {
+    "name": "coffeescript",
+    "logo": ""
+  },
+  "cordova": {
+    "name": "cordova",
+    "logo": ""
+  },
+  "dynamodb": {
+    "name": "dynamodb",
+    "logo": ""
+  },
+  "expo": {
+    "name": "expo",
+    "logo": ""
+  },
+  "markdown": {
+    "name": "markdown",
+    "logo": ""
+  },
+  "r": {
+    "name": "R",
+    "logo": ""
+  },
+  "sencha": {
+    "name": "sencha",
+    "logo": ""
+  },
+  "symfony": {
+    "name": "symfony",
+    "logo": ""
   }
 }
