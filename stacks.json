@@ -485,35 +485,35 @@
   },
   "airtable": {
     "name": "airtable",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/051ffaf4f299f88fa9f81573f08e32a8a0efea12/logos/airtable.svg"
   },
   "codeigniter": {
     "name": "codeigniter",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/051ffaf4f299f88fa9f81573f08e32a8a0efea12/logos/codeigniter.svg"
   },
   "coffeescript": {
     "name": "coffeescript",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/051ffaf4f299f88fa9f81573f08e32a8a0efea12/logos/coffeescript.svg"
   },
   "cordova": {
     "name": "cordova",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/051ffaf4f299f88fa9f81573f08e32a8a0efea12/logos/cordova.svg"
   },
   "dynamodb": {
     "name": "dynamodb",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/051ffaf4f299f88fa9f81573f08e32a8a0efea12/logos/dynamodb.svg"
   },
   "expo": {
     "name": "expo",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/051ffaf4f299f88fa9f81573f08e32a8a0efea12/logos/expo.svg"
   },
   "markdown": {
     "name": "markdown",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/051ffaf4f299f88fa9f81573f08e32a8a0efea12/logos/markdown.svg"
   },
   "r": {
     "name": "R",
-    "logo": ""
+    "logo": "https://raw.githubusercontent.com/tazim404/tech-stack/051ffaf4f299f88fa9f81573f08e32a8a0efea12/logos/r.svg"
   },
   "sencha": {
     "name": "sencha",
